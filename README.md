@@ -36,4 +36,4 @@ Score Page
 Some challneges were keeping track of the players cards and cordiating it with the image that displayed to comabt this an array was used store the Int value of their card which can help in calculating score and each number corresponded with an image name - using an algorithm to link an Int value with an Image to display to the user 
 
 ## Next Steps 
-
+Currently all the code in emobied into one class however to imrpove the modularity of the code to allow for more people to contribute on it and have maore customizability, next step would be to split it into multiple classes with objects that are called when ever they are needed. Rather than one class with a lot of methods in it, this will help with the games performace. 
