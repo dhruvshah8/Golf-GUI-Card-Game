@@ -20,11 +20,20 @@ A pair of equal cards in the same column scores zero points for the column (even
 
 
 
-Customizability - because of modular code, the user is able to change appearance by changing the backgorund colour of the game as well as player display names in the option panell 
+1. Customizability - 
+  *because of modular code, the user is able to change appearance by changing the backgorund colour of the game as well as player display names in the option panell 
 
 Scoring - using an algorithm it calculates each players score with the distinct scoring rules of the game 
 
+Sleep desing and easy to use interace resulting in good user experience - done through unit testing 
 
+Score Page 
+  allows user to see both player scores 
+   allows user to restart the game 
 
 ## Challenges 
+
+Some challneges were keeping track of the players cards and cordiating it with the image that displayed to comabt this an array was used store the Int value of their card which can help in calculating score and each number corresponded with an image name - using an algorithm to link an Int value with an Image to display to the user 
+
 ## Next Steps 
+
