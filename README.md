@@ -20,7 +20,7 @@ A pair of equal cards in the same column scores zero points for the column (even
 
 
 
-1. Customizability - 
+**1. Customizability** 
   * because of modular code, the user is able to change appearance by changing the backgorund colour of the game as well as player display names in the option panell 
 
 Scoring - using an algorithm it calculates each players score with the distinct scoring rules of the game 
